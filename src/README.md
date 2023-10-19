@@ -18,7 +18,7 @@ Technical Requirements
 
 ## How to use and run the project
 
-To deploy this project run
+To deploy this project run the project
 
 ```bash
 npm install (if u dont have node modules)
